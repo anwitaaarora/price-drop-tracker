@@ -1,0 +1,20 @@
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Sensitive environment variables / secrets
+.env
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
